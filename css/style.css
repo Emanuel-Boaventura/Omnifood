@@ -336,10 +336,15 @@
 /************************/
 
 .section-testimonials {
-  background-color: #fdf2e9;
   display: grid;
+  max-width: 120rem;
   grid-template-columns: 55fr 45fr;
+  margin: 0 auto;
   align-items: center;
+}
+
+.container-for-background-color {
+  background-color: #fdf2e9;
 }
 
 .testimonials-container {
