@@ -13,7 +13,7 @@
 
 > This project was built following the Udemy course "Build Responsive Real-World Websites with HTML and CSS" by Jonas Schmedtmann.
 
-[🔗 Click here to access](https://emanuel-boaventura.github.io/nlw-esports-explorer/)
+[🔗 Click here to access](https://omnifood-flax.vercel.app/)
 
 ## 🛠 Techs
 
